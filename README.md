@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Project Name" width="300">
+  <img src="misc/Captura de Tela 2023-09-26 às 09.56.32.png" alt="Your Project Name" width="300">
 </p>
 
 # Your Project Name
